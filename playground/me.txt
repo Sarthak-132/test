@@ -1,5 +1,0 @@
-{{#Sarthak-132}}
-Name: Sarthak dhoke
-Skills: HTML, CSS, JS, Bootstrap ,React
-Email: dksarthak101@gmail.com
-{{/Sarthak-132}}
